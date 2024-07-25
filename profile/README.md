@@ -3,9 +3,8 @@
 ## Bem-vindo à Leaf Palette!
 
 
-<a href="https://seu-link-desejado.com" style="display: block; text-align: center;">
-  <img src="[https://url-da-imagem.com/leaf_palette_banner.png](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)" alt="Banner da Leaf Palette" style="width: 100%; max-width: 1280px; height: auto; border: none;" />
-</a>
+  <img src="asssets/banner-readme.png" alt="Banner da Leaf Palette" style="width: 100%; max-width: 1280px; height: auto; border: none;" />
+
 
 
 
