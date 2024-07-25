@@ -3,7 +3,8 @@
 ## Bem-vindo à Leaf Palette!
 
 
-  <img src="asssets/banner-readme.png" alt="Banner da Leaf Palette" style="width: 100%; max-width: 1280px; height: auto; border: none;" />
+ 
+ <img width="1440" alt="dashboard_mockup" src="https://github.com/Leaf-Pallete/.github/blob/main/asssets/banner-readme.png">
 
 
 
