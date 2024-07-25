@@ -2,6 +2,13 @@
 
 ## Bem-vindo à Leaf Palette!
 
+
+<a href="https://seu-link-desejado.com" style="display: block; text-align: center;">
+  <img src="[https://url-da-imagem.com/leaf_palette_banner.png](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)" alt="Banner da Leaf Palette" style="width: 100%; max-width: 1280px; height: auto; border: none;" />
+</a>
+
+
+
 **Leaf Palette** é uma comunidade e projeto colaborativo focado em fornecer dicas valiosas e boas práticas de design UI para designers juniores. Nosso objetivo é ser um diário de bolso para designers, oferecendo orientações sobre como criar interfaces de usuário modernas e eficientes.
 
 ---
